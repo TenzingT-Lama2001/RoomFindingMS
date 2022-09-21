@@ -1,0 +1,12 @@
+Annapurna Hotel Kathmandu 1500 8
+Dwarika Hotel Bhaktapur 2000 4
+Horizon Apartment Pokhara 4000 6
+Samsara Villa Kathmandu 4000 7
+Shanker Resort Kathmandu 2000 6 
+Potala Resort Pokhara 4500 4
+Taleju Cottage Bhaktapur 6000 7
+Apsara Apartment Pokhara 12000 8
+Vaishali Villa Kathmandu 8000 8
+Ambassador Resort Kathmandu 7000 6 
+Himalaya Resort Pokhara 8500 5
+Nomad Cottage Bhaktapur 2000 7
